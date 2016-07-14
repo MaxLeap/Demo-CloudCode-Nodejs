@@ -1,5 +1,5 @@
 var ML = require('mlcloudcode');
-ML.serverURL = "http://apidev.leap.as";
+// ML.serverURL = "http://apidev.leap.as";
 
 var Ninja = ML.Object.extend('Ninja');
 
